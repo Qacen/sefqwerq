@@ -69,3 +69,4 @@ https://colab.research.google.com/drive/19YClC3ts2xQM_JhDFb4Ob0AY1XZ_pHok?usp=sh
 https://www.kaggle.com/egorandreasyan
 https://github.com/EgorAndrik/All-Russian-Olympiad-in-Artificial-Intelligence-2024?tab=readme-ov-file
 https://github.com/Waujito/geo_data/blob/main/notebook_2.ipynb
+https://www.kaggle.com/datasets/qacenn/100ksdf
