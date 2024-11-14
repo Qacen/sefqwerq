@@ -70,3 +70,11 @@ https://www.kaggle.com/egorandreasyan
 https://github.com/EgorAndrik/All-Russian-Olympiad-in-Artificial-Intelligence-2024?tab=readme-ov-file
 https://github.com/Waujito/geo_data/blob/main/notebook_2.ipynb
 https://www.kaggle.com/datasets/qacenn/100ksdf
+
+
+
+https://www.kaggle.com/code/qacenn/nto-ai-first
+https://huggingface.co/spaces/mteb/leaderboard
+https://paperswithcode.com/sota/sentiment-analysis-on-sst-2-binary
+https://www.kaggle.com/code/qacenn/notebooka9beca4621
+https://huggingface.co/blog/train-sentence-transformers#loss-function
